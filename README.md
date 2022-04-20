@@ -3,9 +3,9 @@
 
 You have folders with execise!
 In folder you have:
-   - Conditions (file name have "condition")
+   - Conditions (*name* + "condition".txt)
    - Solution (*name*.py)
-   - Tests (file name have "tests"; *name + tests*.py)
+   - Tests (*name* + "tests".py)
 
 If you want to give me new exercise, please write me: [LinkedIN]
 
