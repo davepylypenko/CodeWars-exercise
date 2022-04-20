@@ -1,5 +1,6 @@
 class RomanNumerals:
 
+    """from arabic numbers to roman"""
     def to_roman(val):
         all_roman_nums = {1: 'I', 5: 'V', 10: 'X', 50: 'L', 100: 'C', 500: 'D', 1000: 'M'}
         res = ''
@@ -48,6 +49,8 @@ class RomanNumerals:
         res += new_res
         return res
 
+
+    """from correct roman numbers to arabic"""
     def from_roman(roman_num):
         all_roman_nums = {'M': 1000, 'D': 500, 'C':100, 'L': 50, 'X': 10, 'V': 5, 'I': 1}
         res = 0
