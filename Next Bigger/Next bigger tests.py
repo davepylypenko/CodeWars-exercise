@@ -1,0 +1,5 @@
+nextBigger(12)
+nextBigger(513)
+nextBigger(2017)
+nextBigger(414)
+nextBigger(144)
