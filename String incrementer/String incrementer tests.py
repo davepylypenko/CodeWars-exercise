@@ -1,0 +1,7 @@
+increment_string("foo")
+increment_string("foobar001")
+increment_string("foobar1")
+increment_string("foobar00")
+increment_string("foobar99")
+increment_string("foobar099")
+increment_string("")
