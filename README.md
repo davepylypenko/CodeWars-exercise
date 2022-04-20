@@ -7,4 +7,6 @@ In folder you have:
     - Solution (*name*.py)
     - Tests (file name have "tests"; *name + tests*.py)
 
-If you want to give me new exercise, please write me: [LinkedIN] [https://www.linkedin.com/in/dave-pylypenko/]
+If you want to give me new exercise, please write me: [LinkedIN] [id]
+
+[id]: https://www.linkedin.com/in/dave-pylypenko/
