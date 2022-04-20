@@ -1,3 +1,5 @@
+"""from list of names to list who likes"""
+
 def likes(names):
     text = 'no one likes this'
     if len(names) == 1:
